@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+blockquote {
+    font-style: oblique;
+}
+
+body {
+    background-color: rgb(161, 238, 238);
+}
+
+h2 {
+    background-color: darkcyan;
+}
+
+h3 {
+    background-color: rgb(52, 192, 192);
+    color: white;
+}
+
+pre {
+    background-color: white;
+}
